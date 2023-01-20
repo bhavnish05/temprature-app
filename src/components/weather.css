@@ -1,0 +1,45 @@
+.im {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 100%;
+}
+.heading {
+  color: white;
+  font-weight: 700;
+}
+
+.fands {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  align-items: center;
+}
+
+.form-control {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.wetherResultBox {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weathorIcon {
+  width: 100px;
+  height: 100px;
+  margin-top: 2rem;
+}
+
+.weatherCity {
+  font-size: 45px;
+}
+
+.weatherTemp {
+  font-size: 55px;
+  font-weight: 700;
+}
